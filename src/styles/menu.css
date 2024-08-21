@@ -43,6 +43,11 @@
     border-radius: 0 37.5px 0 42.5px;
 }
 
+.dish img {
+    width: 280px;
+    height: 280px;
+}
+
 .dish-description {
     color: #434343;
     text-align: center; 
