@@ -5,7 +5,6 @@ $(document).ready(function() {
     });
 
 
-    
     const sections = $('sections');
     const navItems = $('.nav-item');
 
